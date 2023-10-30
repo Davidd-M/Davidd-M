@@ -2,16 +2,18 @@
 
 I'm a data enthusiast from Sofia, Bulgaria, currently on a Python programming journey. 
 
-🌱 I'm currently learning Python and exploring its vast world of libraries and applications.
+📚 I'm currently learning Python and exploring its vast world of libraries and applications.
 
 ## 🔧 Skills and Tools
 
 - Python
-- Data Analysis
+- Databases
+- Basic Data Structures
+- Basic Algorithms
+- Adaptability
 
 ## 📫 Contact Me
 
-- GitHub: [Davidd-M](https://github.com/Davidd-M)
 - LinkedIn: [David-Mitov](https://www.linkedin.com/in/david-mitov/)
 - Email: deivid.mitov@gmail.com
 
