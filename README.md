@@ -12,7 +12,7 @@ I'm David, a data enthusiast from Sofia, Bulgaria, currently on a Python program
 ## 📫 Contact Me
 
 - GitHub: [Davidd-M](https://github.com/Davidd-M)
-- LinkedIn: [David](https://www.linkedin.com/in/david-mitov/)
+- LinkedIn: [David-Mitov](https://www.linkedin.com/in/david-mitov/)
 - Email: deivid.mitov@gmail.com
 
 Feel free to reach out, connect, or collaborate! Let's learn and grow together in the world of Python programming.
