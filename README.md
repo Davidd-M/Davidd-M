@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm David, a data enthusiast from Sofia, Bulgaria, currently on a Python programming journey. 
+I'm a data enthusiast from Sofia, Bulgaria, currently on a Python programming journey. 
 
 🌱 I'm currently learning Python and exploring its vast world of libraries and applications.
 
