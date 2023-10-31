@@ -1,8 +1,6 @@
 # Hello, World! 👋
 
-👨‍💼 I'm a software engineering student from Sofia, Bulgaria, currently on a Python programming journey. 
-
-📚 I'm currently learning programming and exploring its vast world of applications and possibilities.
+👨‍💼 I'm a software engineering student from Sofia, Bulgaria, currently on a programming journey. 
 
 ## 💡 Skills
 
@@ -12,7 +10,7 @@
 - Basic Algorithms
 - Adaptability
 
-## 🌱 Learning:
+## 📚 Learning:
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
