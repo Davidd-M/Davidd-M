@@ -23,4 +23,3 @@
 
 Feel free to reach out, connect, or collaborate! Let's learn and grow together!
 
-https://github-readme-activity-graph.cyclic.app/graph?username={Davidd-M}
