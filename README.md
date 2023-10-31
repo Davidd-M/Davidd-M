@@ -12,10 +12,15 @@
 - Basic Algorithms
 - Adaptability
 
+## 🌱 Learning:
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+  
 ## 📫 Contact Me
 
-- 📧 Email: deivid.mitov@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/david-mitov/)
-- [![image](https://github.com/Davidd-M/Davidd-M/assets/64913574/7d821b2d-7cff-443e-ba66-1a13c6c20fdf)](https://www.linkedin.com/in/david-mitov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mitov) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivid.mitov@gmail.com)
 
 Feel free to reach out, connect, or collaborate! Let's learn and grow together!
+
+https://github-readme-activity-graph.cyclic.app/graph?username={Davidd-M}
