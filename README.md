@@ -16,7 +16,7 @@
 
 - 📧 Email: deivid.mitov@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/david-mitov/)
-- ![image](https://github.com/Davidd-M/Davidd-M/assets/64913574/7d821b2d-7cff-443e-ba66-1a13c6c20fdf)
+- [![LinkedIn Icon](https://github.com/Davidd-M/Davidd-M/raw/main/assets/64913574/7d821b2d-7cff-443e-ba66-1a13c6c20fdf/linkedin-icon.png)](https://www.linkedin.com/in/david-mitov)
 
 
 Feel free to reach out, connect, or collaborate! Let's learn and grow together!
