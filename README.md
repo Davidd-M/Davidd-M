@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-👨‍💼 I'm a software engineering student in Sofia, Bulgaria, currently on a programming journey. 
+👨‍💼 I'm a software engineering student, located in Sofia, Bulgaria, currently on a programming journey. 
 
 ## 📚 Learning
 
@@ -14,9 +14,9 @@
 - Basic Algorithms
 - Adaptability
 
-## 📫 Contact Me
+## 💬 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mitov) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivid.mitov@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivid.mitov@gmail.com) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/david_mitov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mitov)
 
 Feel free to reach out, connect, or collaborate! Let's learn and grow together!
 
